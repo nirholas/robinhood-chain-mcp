@@ -1,0 +1,28 @@
+# robinhood-chain-mcp
+
+> Model Context Protocol servers for Robinhood Chain: zero-config read-only data server plus an opt-in trading server with hard spend caps and confirm gates.
+
+robinhood-chain-mcp is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/robinhood-chain-mcp/blob/HEAD/README.md): install, usage and reference
+- [Why](https://github.com/nirholas/robinhood-chain-mcp/blob/HEAD/README.md#why)
+- [60-second install](https://github.com/nirholas/robinhood-chain-mcp/blob/HEAD/README.md#60-second-install)
+- [Two servers](https://github.com/nirholas/robinhood-chain-mcp/blob/HEAD/README.md#two-servers)
+- [Environment reference](https://github.com/nirholas/robinhood-chain-mcp/blob/HEAD/README.md#environment-reference)
+- [x402 monetization (seam, not active)](https://github.com/nirholas/robinhood-chain-mcp/blob/HEAD/README.md#x402-monetization-seam-not-active)
+- [Development](https://github.com/nirholas/robinhood-chain-mcp/blob/HEAD/README.md#development)
+- [Registry submissions (owner action)](https://github.com/nirholas/robinhood-chain-mcp/blob/HEAD/README.md#registry-submissions-owner-action)
+- [License](https://github.com/nirholas/robinhood-chain-mcp/blob/HEAD/README.md#license)
+- [AGENTS.md](https://github.com/nirholas/robinhood-chain-mcp/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/robinhood-chain-mcp/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/robinhood-chain-mcp)
+- [Issues](https://github.com/nirholas/robinhood-chain-mcp/issues)
+- [Discussions](https://github.com/nirholas/robinhood-chain-mcp/discussions)
+- [Homepage](https://nirholas.github.io/robinhood-chain-mcp/)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)
