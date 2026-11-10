@@ -1,0 +1,22 @@
+{
+  "name": "robinhood-chain-mcp",
+  "owner": {
+    "name": "nirholas"
+  },
+  "description": "MCP servers for Robinhood Chain: a read-only data server for Stock Tokens and memecoins, plus an opt-in guarded trading server.",
+  "plugins": [
+    {
+      "name": "hood-mcp",
+      "source": "./plugins/hood-mcp",
+      "description": "MCP servers for Robinhood Chain: a read-only data server for Stock Tokens and memecoins, plus an opt-in guarded trading server.",
+      "category": "finance",
+      "tags": [
+        "robinhood-chain",
+        "mcp",
+        "stock-tokens",
+        "memecoins",
+        "market-data"
+      ]
+    }
+  ]
+}

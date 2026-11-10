@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hood-mcp": {
+      "command": "npx",
+      "args": ["-y", "hood-mcp"]
+    }
+  }
+}
