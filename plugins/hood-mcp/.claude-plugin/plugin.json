@@ -1,0 +1,17 @@
+{
+  "name": "hood-mcp",
+  "version": "0.1.1",
+  "description": "MCP servers for Robinhood Chain: a read-only data server for Stock Tokens and memecoins, plus an opt-in guarded trading server.",
+  "author": {
+    "name": "nirholas"
+  },
+  "repository": "https://github.com/nirholas/robinhood-chain-mcp",
+  "homepage": "https://nirholas.github.io/robinhood-chain-mcp/",
+  "keywords": [
+    "robinhood-chain",
+    "mcp",
+    "stock-tokens",
+    "memecoins",
+    "market-data"
+  ]
+}
